@@ -1,4 +1,4 @@
-package com.example.anar;
+package com.dastjar.anar;
 
 import org.junit.Test;
 

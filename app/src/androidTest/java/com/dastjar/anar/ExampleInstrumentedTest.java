@@ -1,4 +1,4 @@
-package com.example.anar;
+package com.dastjar.anar;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

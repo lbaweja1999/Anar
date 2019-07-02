@@ -1,4 +1,4 @@
-package com.example.anar;
+package com.dastjar.anar;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

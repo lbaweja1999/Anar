@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "783282814206",
+    "firebase_url": "https://anar-ea5bf.firebaseio.com",
+    "project_id": "anar-ea5bf",
+    "storage_bucket": "anar-ea5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783282814206:android:61a814cae4a95533",
+        "android_client_info": {
+          "package_name": "com.example.anar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783282814206-p9tb667lgruc0cjroph86u515ieu50ij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anar",
+            "certificate_hash": "7250f3fc5ecd53564e0e249a113a8ca63314dc69"
+          }
+        },
+        {
+          "client_id": "783282814206-74o29edval9e9ldtsjpf099bjtg5q57j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATbxuFcw0IfwFAslVTVxypOK0C7T76nAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783282814206-74o29edval9e9ldtsjpf099bjtg5q57j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
